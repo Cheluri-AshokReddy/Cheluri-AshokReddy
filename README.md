@@ -27,7 +27,3 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your_github_username&show_icons=true&locale=en&layout=compact" alt="your_github_username" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&locale=en" alt="your_github_username" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&" alt="your_github_username" /></p>
