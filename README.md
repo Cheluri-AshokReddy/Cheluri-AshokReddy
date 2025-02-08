@@ -26,7 +26,18 @@ I love tackling complex coding challenges and constantly exploring new technolog
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashokreddy_cheluri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashokreddycheluri-740603235/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashokreddy20020427@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
+![Junit5](https://img.shields.io/badge/-junit5-black?style=for-the-badge&logo=junit5)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
+![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
+![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)
+![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cheluri-AshokReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cheluri-AshokReddy&theme=dark&hide_border=false)<br/>
